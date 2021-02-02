@@ -11,7 +11,7 @@ atari-py==0.2.6
 attrs==20.3.0
 Babel==2.9.0
 backcall==0.2.0
-bleach==3.2.3
+bleach==3.3.0
 blessings==1.7
 cachetools==4.2.1
 certifi==2020.12.5
